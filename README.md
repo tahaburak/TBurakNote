@@ -1,4 +1,5 @@
 # TBurakNote
 Simple Note taking app based on Advanced Android midterm.
 
-Working apk : [APK](APK/TBurakNote.apk)
+[Download the apk](https://raw.githubusercontent.com/tahaburak/TBurakNote/blob/master/APK/TBurakNote.apk)
+
